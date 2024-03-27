@@ -1,0 +1,2 @@
+- Best SVM kernel for logarithmic data
+- Is how necessary is random sampling for training an SVM
